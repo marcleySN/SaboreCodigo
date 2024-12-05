@@ -1,4 +1,4 @@
-# E-book Sabor e Código Receitas Futuristas com IA
+# Sabor e Código Receitas Futuristas com IA
 
 ## 📒 Descrição
 Este e-book de 11 páginas explora o impacto revolucionário das IAs Generativas no dia a dia da cozinha criando receitas incríveis criando uma nova fusão de sabores.
