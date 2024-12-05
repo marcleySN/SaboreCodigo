@@ -14,7 +14,7 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre o impacto das IAs Generat
 ## 🚀 Resultados
 O e-book apresenta um conteúdo visualmete futurista e mostra como as IAs Generativas podem auxiliar em tarefas de nossa vida cotidiana. No caso deste e-book, auxiliando na criação de receitas futuristas.
 
-[LINK PARA O E-BOOK AQUI]()
+(https://github.com/marcleySN/SaboreCodigo/commit/9a515407bca329df825f374dcab1efa9bbd6ff9f)
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
