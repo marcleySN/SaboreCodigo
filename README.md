@@ -12,7 +12,7 @@ Este e-book de 11 páginas explora o impacto revolucionário das IAs Generativas
 Utilizei o "ChatGPT" para revisar minha pesquisa sobre o impacto das IAs Generativas na criação de receitas, estruturar o conteúdo e refinar minhas ideias. Utilizei também o "Leonardo AI" para gerar imagens de fundo para o e-book. A montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo visualmete futurista e mostra como as IAs Generativas podem auxiliar em tarefas de nossa vida cotidiana.
+O e-book apresenta um conteúdo visualmete futurista e mostra como as IAs Generativas podem auxiliar em tarefas de nossa vida cotidiana. No caso deste e-book, auxiliando na criação de receitas futuristas.
 
 [LINK PARA O E-BOOK AQUI]()
 
